@@ -68,13 +68,13 @@ To run the code and replicate the experiment, you'll need the following:
 1. Clone the repository:
 
    ```bash
-     git clone https://github.com/jackhanderson/Random-ETF.git
+   git clone https://github.com/jackhanderson/Random-ETF.git
    ```
 
 2. Navigate to the project directory:
 
   ```bash
-    cd Random-ETF
+  cd Random-ETF
   ```
 
 3. Open the R notebook in RStudio and run the code to generate your own random ETFs and analyze the results.
